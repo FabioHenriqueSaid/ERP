@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "9SEpqQDG0goVZjcT+cErKvArwIabA2FhvXmAhpnm8HJa/FN6zZ0deSYuuOx6BUH21QJRnKLX7jEkEjrMSeKnoA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Basis Tecnologia\\source\\repos\\ERP\\ERP.Infra.CrossCutting.IOC\\ERP.Infra.CrossCutting.IOC.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Basis Tecnologia\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\5.0.0\\microsoft.extensions.dependencyinjection.abstractions.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

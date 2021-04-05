@@ -1,0 +1,5 @@
+C:\Users\Basis Tecnologia\source\repos\ERP\ERP.Infra.CrossCutting.IOC\bin\Debug\netcoreapp3.1\ERP.Infra.CrossCutting.IOC.deps.json
+C:\Users\Basis Tecnologia\source\repos\ERP\ERP.Infra.CrossCutting.IOC\bin\Debug\netcoreapp3.1\ERP.Infra.CrossCutting.IOC.dll
+C:\Users\Basis Tecnologia\source\repos\ERP\ERP.Infra.CrossCutting.IOC\obj\Debug\netcoreapp3.1\ERP.Infra.CrossCutting.IOC.csprojAssemblyReference.cache
+C:\Users\Basis Tecnologia\source\repos\ERP\ERP.Infra.CrossCutting.IOC\obj\Debug\netcoreapp3.1\ERP.Infra.CrossCutting.IOC.AssemblyInfoInputs.cache
+C:\Users\Basis Tecnologia\source\repos\ERP\ERP.Infra.CrossCutting.IOC\obj\Debug\netcoreapp3.1\ERP.Infra.CrossCutting.IOC.AssemblyInfo.cs

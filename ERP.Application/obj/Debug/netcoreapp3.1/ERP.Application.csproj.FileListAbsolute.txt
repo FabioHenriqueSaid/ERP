@@ -1,0 +1,9 @@
+C:\Users\Basis Tecnologia\source\repos\ERP\ERP.Application\bin\Debug\netcoreapp3.1\ERP.Application.deps.json
+C:\Users\Basis Tecnologia\source\repos\ERP\ERP.Application\bin\Debug\netcoreapp3.1\ERP.Application.dll
+C:\Users\Basis Tecnologia\source\repos\ERP\ERP.Application\bin\Debug\netcoreapp3.1\ERP.Application.pdb
+C:\Users\Basis Tecnologia\source\repos\ERP\ERP.Application\obj\Debug\netcoreapp3.1\ERP.Application.csprojAssemblyReference.cache
+C:\Users\Basis Tecnologia\source\repos\ERP\ERP.Application\obj\Debug\netcoreapp3.1\ERP.Application.AssemblyInfoInputs.cache
+C:\Users\Basis Tecnologia\source\repos\ERP\ERP.Application\obj\Debug\netcoreapp3.1\ERP.Application.AssemblyInfo.cs
+C:\Users\Basis Tecnologia\source\repos\ERP\ERP.Application\obj\Debug\netcoreapp3.1\ERP.Application.csproj.CoreCompileInputs.cache
+C:\Users\Basis Tecnologia\source\repos\ERP\ERP.Application\obj\Debug\netcoreapp3.1\ERP.Application.dll
+C:\Users\Basis Tecnologia\source\repos\ERP\ERP.Application\obj\Debug\netcoreapp3.1\ERP.Application.pdb

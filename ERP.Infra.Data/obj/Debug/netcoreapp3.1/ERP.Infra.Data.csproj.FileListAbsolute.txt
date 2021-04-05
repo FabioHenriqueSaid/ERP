@@ -1,0 +1,15 @@
+C:\Users\Basis Tecnologia\source\repos\ERP\ERP.Infra.Data\bin\Debug\netcoreapp3.1\ERP.Infra.Data.deps.json
+C:\Users\Basis Tecnologia\source\repos\ERP\ERP.Infra.Data\bin\Debug\netcoreapp3.1\ERP.Infra.Data.dll
+C:\Users\Basis Tecnologia\source\repos\ERP\ERP.Infra.Data\obj\Debug\netcoreapp3.1\ERP.Infra.Data.csprojAssemblyReference.cache
+C:\Users\Basis Tecnologia\source\repos\ERP\ERP.Infra.Data\obj\Debug\netcoreapp3.1\ERP.Infra.Data.AssemblyInfoInputs.cache
+C:\Users\Basis Tecnologia\source\repos\ERP\ERP.Infra.Data\obj\Debug\netcoreapp3.1\ERP.Infra.Data.AssemblyInfo.cs
+C:\Users\Basis Tecnologia\source\repos\ERP\ERP.Infra.Data\bin\Debug\netcoreapp3.1\ERP.Infra.Data.runtimeconfig.json
+C:\Users\Basis Tecnologia\source\repos\ERP\ERP.Infra.Data\bin\Debug\netcoreapp3.1\ERP.Infra.Data.runtimeconfig.dev.json
+C:\Users\Basis Tecnologia\source\repos\ERP\ERP.Infra.Data\bin\Debug\netcoreapp3.1\ERP.Infra.Data.pdb
+C:\Users\Basis Tecnologia\source\repos\ERP\ERP.Infra.Data\bin\Debug\netcoreapp3.1\ERP.Domain.dll
+C:\Users\Basis Tecnologia\source\repos\ERP\ERP.Infra.Data\bin\Debug\netcoreapp3.1\ERP.Domain.pdb
+C:\Users\Basis Tecnologia\source\repos\ERP\ERP.Infra.Data\obj\Debug\netcoreapp3.1\ERP.Infra.Data.csproj.CopyComplete
+C:\Users\Basis Tecnologia\source\repos\ERP\ERP.Infra.Data\obj\Debug\netcoreapp3.1\ERP.Infra.Data.dll
+C:\Users\Basis Tecnologia\source\repos\ERP\ERP.Infra.Data\obj\Debug\netcoreapp3.1\ERP.Infra.Data.pdb
+C:\Users\Basis Tecnologia\source\repos\ERP\ERP.Infra.Data\obj\Debug\netcoreapp3.1\ERP.Infra.Data.genruntimeconfig.cache
+C:\Users\Basis Tecnologia\source\repos\ERP\ERP.Infra.Data\obj\Debug\netcoreapp3.1\ERP.Infra.Data.csproj.CoreCompileInputs.cache

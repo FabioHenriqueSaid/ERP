@@ -1,0 +1,9 @@
+C:\Users\Basis Tecnologia\source\repos\ERP\ERP.Domain\bin\Debug\netcoreapp3.1\ERP.Domain.deps.json
+C:\Users\Basis Tecnologia\source\repos\ERP\ERP.Domain\bin\Debug\netcoreapp3.1\ERP.Domain.dll
+C:\Users\Basis Tecnologia\source\repos\ERP\ERP.Domain\bin\Debug\netcoreapp3.1\ERP.Domain.pdb
+C:\Users\Basis Tecnologia\source\repos\ERP\ERP.Domain\obj\Debug\netcoreapp3.1\ERP.Domain.csprojAssemblyReference.cache
+C:\Users\Basis Tecnologia\source\repos\ERP\ERP.Domain\obj\Debug\netcoreapp3.1\ERP.Domain.AssemblyInfoInputs.cache
+C:\Users\Basis Tecnologia\source\repos\ERP\ERP.Domain\obj\Debug\netcoreapp3.1\ERP.Domain.AssemblyInfo.cs
+C:\Users\Basis Tecnologia\source\repos\ERP\ERP.Domain\obj\Debug\netcoreapp3.1\ERP.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Basis Tecnologia\source\repos\ERP\ERP.Domain\obj\Debug\netcoreapp3.1\ERP.Domain.dll
+C:\Users\Basis Tecnologia\source\repos\ERP\ERP.Domain\obj\Debug\netcoreapp3.1\ERP.Domain.pdb
